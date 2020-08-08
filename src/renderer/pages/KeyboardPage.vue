@@ -3,7 +3,7 @@
 
         <md-card style="padding: 1em">
             <div v-if="midiName === null">
-                <p>Failed to connect to a midi device. Download loopMIDI and create a new loopback device named "NodeJS MIDI out"</p>
+                <p>Failed to connect to a midi device. Download loopMIDI and create a new loopback device named "scale-board" and restart this app</p>
             </div>
             <div v-if="midiName !== null">
                 <div class="controls">

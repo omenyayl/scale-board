@@ -4,7 +4,7 @@ function MidiOut() {
     /*
  Init MIDI output
   */
-    const deviceName = 'NodeJS MIDI out';
+    const deviceName = 'scale-board';
     let midiOut;
     if (process.platform === "win32") {
         // find the loopmidi 'NodeJS MIDI out' virtual port
