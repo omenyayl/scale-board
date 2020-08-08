@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" style="overflow-y: hidden">
     <md-toolbar>
       <h3 class="md-title">ScaleBoard</h3>
     </md-toolbar>
