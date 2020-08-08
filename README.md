@@ -1,4 +1,7 @@
 # scale-board
+A virtual MIDI keyboard that dynamically changes notes based on the selected scale
+![ScaleBoard](https://olegpublic.s3.amazonaws.com/scale-board.png)
+
 
 > An electron-vue project
 
