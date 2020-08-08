@@ -31,7 +31,7 @@ function createWindow () {
       nodeIntegrationInWorker: true
     }
   });
-  mainWindow.setMenu(null);
+  mainWindow.setMenuBarVisibility(false);
 
   mainWindow.loadURL(winURL);
 
