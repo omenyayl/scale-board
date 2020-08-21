@@ -1,7 +1,12 @@
 # scale-board
 A virtual MIDI keyboard that dynamically changes notes based on the selected scale
-![ScaleBoard](https://olegpublic.s3.amazonaws.com/scale-board.png)
 
+
+## Windows users
+Before running this app, install [loopMIDI](http://www.tobias-erichsen.de/software/loopmidi.html) and add a new MIDI port named "scale-board".
+
+## Demo
+![ScaleBoard](https://olegpublic.s3.amazonaws.com/scale-board.png)
 
 > An electron-vue project
 
