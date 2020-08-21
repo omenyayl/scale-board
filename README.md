@@ -6,6 +6,7 @@ A virtual MIDI keyboard that dynamically changes notes based on the selected sca
 Before running this app, install [loopMIDI](http://www.tobias-erichsen.de/software/loopmidi.html) and add a new MIDI port named "scale-board".
 
 ## Demo
+Download from [here](https://github.com/omenyayl/scale-board/releases)
 ![ScaleBoard](https://olegpublic.s3.amazonaws.com/scale-board.png)
 
 > An electron-vue project
