@@ -8,8 +8,10 @@ Before running this app, install [loopMIDI](http://www.tobias-erichsen.de/softwa
 ## Usage
 Simply run this app alongside your favorite DAW and press any number or letter key to play a note.  
 
+## Download
+Visit the [releases](https://github.com/omenyayl/scale-board/releases) page and download the appropriate installation file for your operating system.
+
 ## Demo
-Download from [here](https://github.com/omenyayl/scale-board/releases)
 ![ScaleBoard](https://olegpublic.s3.amazonaws.com/scale-board.png)
 
 > An electron-vue project
